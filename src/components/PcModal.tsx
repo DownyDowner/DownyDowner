@@ -40,7 +40,7 @@ function PcModal({ isOpen, onClose }: PcModalProps) {
       handle=".xp-title-bar"
       nodeRef={nodeRef as React.RefObject<HTMLElement>}
     >
-      <div ref={nodeRef} className="xp-window position-absolute p-2 mt-2 w-25">
+      <div ref={nodeRef} className="xp-window position-absolute p-2 mt-2 w-50">
         <div className="xp-title-bar d-flex justify-content-between align-items-center p-2 cursor-move">
           <span>Mon PC</span>
           <div>
