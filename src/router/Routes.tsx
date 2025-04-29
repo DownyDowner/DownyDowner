@@ -2,7 +2,7 @@ import { Navigate, RouteObject } from "react-router-dom";
 import Home from "../pages/Home";
 
 export const ROUTES = {
-  HOME: "/",
+  HOME: "/DownyDowner",
 };
 
 const routes: RouteObject[] = [
