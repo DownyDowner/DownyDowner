@@ -11,5 +11,7 @@ Software developer passionate about **web development, backend technologies and 
 ### 🎵 Beyond Code
 
 🥁 Playing drums
+
 🎧 Listening to music
+
 💻 Exploring new technologies & software development
